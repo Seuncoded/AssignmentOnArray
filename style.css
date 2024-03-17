@@ -1,0 +1,61 @@
+
+        .imgCon {
+            height: fit-content;
+            width: 300px;
+            border: 1px solid lightgrey;
+            align-items: center;
+            text-align: center;
+        }
+
+
+        .btnOne{
+            margin-top: 10px;
+            display: flex;
+            gap: 50px;
+        }
+
+        .btnOne button{
+            padding: 20px 70px;
+            border-radius: 20px;
+            border: none;
+        }
+
+        img {
+            height: 300px;
+            border-radius: 20px;
+        }
+
+        .imgCon{
+            margin-left: 40px;
+            border-radius: 20px;
+            border: none;
+        }
+
+        .bt2n{
+            margin-top: 10px;
+            display: flex;
+            gap: 50px;
+        }
+
+        .bt2n button{
+            padding: 20px 70px;
+            border-radius: 20px;
+            border: none;
+        }
+    
+        .inpUsers{
+            margin-top: 50px;
+        }
+
+        .inpUsers input{
+            padding: 20px 145px;
+            border-radius: 20px;
+            border: none;
+            font-size: 1rem;
+            font-weight: bolder;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+
+        #displayUsersInput{
+            height: 20px;
+        }
